@@ -1,140 +1,115 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Scourge4tw/Scourge4tw/main/assets/header.png" width="100%" />
+  <img src="./assets/banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Mrinal Kumar</h1>
+<h1 align="center">Hi there 👋, I'm Mrinal Kumar</h1>
 
-<h3 align="center">
-Machine Learning Engineer • Java Developer • AI & DevOps Enthusiast
-</h3>
+<h3 align="center">Machine Learning Engineer • Java Developer • AI & DevOps Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Machine+Learning+Engineer;Java+Backend+Developer;Exploring+MLOps+and+Cloud;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Machine+Learning+Engineer;Java+Backend+Developer;Exploring+MLOps+and+Cloud;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Scourge4tw&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Scourge4tw&style=for-the-badge&color=blueviolet">
 </p>
 
 ---
 
-# 🚀 About Me
+## 🌟 About Me
 
 ```yaml
 Name: Mrinal Kumar
+Role: Machine Learning Engineer
 Education: B.Tech Computer Science
-Location: India
 
-Interests:
+Current Focus:
   - Machine Learning
   - Generative AI
   - MLOps
   - DevOps
-  - System Design
   - Cloud Computing
 
 Currently Learning:
   - Apache Spark
   - Snowflake
   - Kubernetes
-  - Advanced Machine Learning
+  - System Design
 
 Goal:
-  Build scalable AI systems used by millions.
+  Build intelligent systems that solve real-world problems.
 ```
 
 ---
 
-# 🛠 Languages & Tools
+## 🚀 Current Journey
+
+- 🌱 Learning Advanced Machine Learning & MLOps
+- 🤖 Building AI Powered DevOps Assistant
+- 📊 Exploring Data Engineering & Big Data
+- ☁️ Working with AWS, GCP & Cloud Technologies
+- 💻 Solving DSA using Java
+
+---
+
+## 🛠 Languages and Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,mongodb,docker,git,github,tensorflow,aws,gcp,linux,fastapi,vscode" />
 </p>
 
-### ML & Data Science
+<br>
 
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- PyTorch
-- TensorFlow
-
-### Big Data & Cloud
-
-- Apache Spark
-- Snowflake
-- AWS
-- GCP
+<p align="center">
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn">
+</p>
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+## 📌 Featured Projects
 
 ### 🤖 AI Powered DevOps Assistant
 
-- FastAPI Backend
-- React Frontend
-- Dockerized Deployment
-- LLM Integration
-- Infrastructure Troubleshooting
-
-</td>
-
-<td width="50%">
-
-### 🖼️ Multimodal Image Captioning
-
-- YOLOv5 Object Detection
-- Graph Convolution Networks
-- GPT-2 Caption Generation
-- 92% mAP@0.5
-- BLEU Score 0.78
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Productivity Prediction
-
-- Random Forest Regressor
-- Feature Engineering
-- Data Analysis
-- Model Evaluation
-
-</td>
-
-<td width="50%">
-
-### 💻 DSA & Problem Solving
-
-- Java
-- Data Structures
-- Algorithms
-- Interview Preparation
-
-</td>
-</tr>
-</table>
+- LLM-powered DevOps automation assistant
+- FastAPI backend
+- React frontend
+- Dockerized deployment
+- Infrastructure troubleshooting support
 
 ---
 
-# 📈 GitHub Analytics
+### 🖼️ Multimodal Image Captioning System
+
+- YOLOv5 Object Detection
+- Graph Convolutional Networks
+- GPT-2 Caption Generation
+- 92% mAP@0.5
+- BLEU Score: 0.78
+
+---
+
+### 📊 Productivity Prediction System
+
+- Data Analysis
+- Feature Engineering
+- Random Forest Regressor
+- Productivity Forecasting
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Scourge4tw&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -148,15 +123,15 @@ Goal:
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Scourge4tw&theme=tokyonight&row=1&column=7&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Scourge4tw&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scourge4tw&theme=tokyo-night&hide_border=true" />
@@ -164,11 +139,22 @@ Goal:
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 2026 Goals
+
+- Master Machine Learning Engineering
+- Learn MLOps End-to-End
+- Reach 500+ DSA Problems
+- Build 5 Production-Ready Projects
+- Contribute to Open Source
+- Secure a Software/ML Engineering Role
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -181,5 +167,7 @@ Goal:
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+⭐ Thanks for visiting my profile ⭐
+
 </p>
