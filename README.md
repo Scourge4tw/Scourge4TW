@@ -1,6 +1,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Mrinal+Kumar;Machine+Learning+Engineer;Java+Developer;AI+%26+DevOps+Enthusiast;Always+Learning+Something+New" />
 </p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mrinal%20Kumar&fontSize=60&animation=fadeIn&fontAlignY=40" />
+</p>
 <h1 align="center">Hi 👋, I'm Mrinal Kumar</h1>
 
 <h3 align="center">
