@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mrinal%20Kumar&fontAlign=50&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%7C%20Java%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=60" />
+</p>
 <h1 align="center">Hi 👋, I'm Mrinal Kumar</h1>
 
 <h3 align="center">
