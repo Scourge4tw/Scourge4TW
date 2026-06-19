@@ -1,150 +1,185 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Mrinal+Kumar;Machine+Learning+Engineer;Java+Developer;AI+%26+DevOps+Enthusiast;Always+Learning+Something+New" />
+  <img src="https://raw.githubusercontent.com/Scourge4tw/Scourge4tw/main/assets/header.png" width="100%" />
 </p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mrinal%20Kumar&fontSize=60&animation=fadeIn&fontAlignY=40" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Mrinal Kumar</h1>
 
 <h3 align="center">
-Machine Learning Engineer | Java Developer | AI Enthusiast
+Machine Learning Engineer • Java Developer • AI & DevOps Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Scourge4tw&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Machine+Learning+Engineer;Java+Backend+Developer;Exploring+MLOps+and+Cloud;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Scourge4tw&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Final Year B.Tech CSE Student
+```yaml
+Name: Mrinal Kumar
+Education: B.Tech Computer Science
+Location: India
 
-💻 Passionate about Machine Learning, AI, Java Development, and DevOps
+Interests:
+  - Machine Learning
+  - Generative AI
+  - MLOps
+  - DevOps
+  - System Design
+  - Cloud Computing
 
-🌱 Currently learning:
-- Generative AI
-- MLOps
-- System Design
-- Cloud Technologies
+Currently Learning:
+  - Apache Spark
+  - Snowflake
+  - Kubernetes
+  - Advanced Machine Learning
 
-🎯 Goal:
-- Build impactful AI-powered applications
-- Crack high-paying Software/ML Engineer roles
-- Contribute to Open Source
+Goal:
+  Build scalable AI systems used by millions.
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Languages & Tools
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,mongodb,docker,git,github,tensorflow,aws,gcp,linux,fastapi,vscode" />
 </p>
 
-### Machine Learning & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+### ML & Data Science
 
 - Scikit-Learn
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- PyTorch
+- TensorFlow
 
-### Databases
+### Big Data & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Cloud & Big Data
-
+- Apache Spark
+- Snowflake
 - AWS
 - GCP
-- Snowflake
-- Apache Spark
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-</p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 AI Powered DevOps Assistant
 
-- Built an intelligent DevOps assistant using LLMs
-- FastAPI backend and React frontend
-- Dockerized deployment
-- Automated infrastructure and troubleshooting support
+- FastAPI Backend
+- React Frontend
+- Dockerized Deployment
+- LLM Integration
+- Infrastructure Troubleshooting
 
-### 🖼️ Multimodal Image Captioning System
+</td>
+
+<td width="50%">
+
+### 🖼️ Multimodal Image Captioning
 
 - YOLOv5 Object Detection
-- Graph Convolutional Networks (GCN)
+- Graph Convolution Networks
 - GPT-2 Caption Generation
-- Achieved 92% mAP@0.5
-- BLEU Score: 0.78
+- 92% mAP@0.5
+- BLEU Score 0.78
 
-### 📊 Productivity Prediction System
+</td>
+</tr>
 
-- Data Analysis and Feature Engineering
-- Linear Regression
-- Decision Tree Regressor
+<tr>
+<td width="50%">
+
+### 📊 Productivity Prediction
+
 - Random Forest Regressor
-- Predicts productivity based on lifestyle metrics
+- Feature Engineering
+- Data Analysis
+- Model Evaluation
+
+</td>
+
+<td width="50%">
+
+### 💻 DSA & Problem Solving
+
+- Java
+- Data Structures
+- Algorithms
+- Interview Preparation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements
-
-- Solved Data Structures & Algorithms problems consistently
-- Built end-to-end Machine Learning projects
-- Experience with AI, ML, Cloud, and DevOps technologies
-- Active GitHub contributor
-
----
-
-## 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Scourge4tw&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Scourge4tw&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scourge4tw&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scourge4tw&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Scourge4tw&theme=tokyonight" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Scourge4tw&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Trophies
 
-<p align="left">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Scourge4tw&theme=tokyonight&row=1&column=7&margin-w=15" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scourge4tw&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+<a href="https://github.com/Scourge4tw">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
