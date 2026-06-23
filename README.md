@@ -143,7 +143,6 @@ Goal:
 
 - Master Machine Learning Engineering
 - Learn MLOps End-to-End
-- Reach 500+ DSA Problems
 - Build 5 Production-Ready Projects
 - Contribute to Open Source
 - Secure a Software/ML Engineering Role
